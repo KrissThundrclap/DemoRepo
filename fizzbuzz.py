@@ -8,5 +8,6 @@ for i in range(1,101):
 	else:
 		print(f"The number is {i}")
 
-		
-		
+
+print ("I Hope u Liked This project")
+
