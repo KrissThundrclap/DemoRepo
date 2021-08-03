@@ -6,3 +6,4 @@ for (let i = 1; i <= 100; i++){
 
   if (tbp !== ""){console.log(tbp)}
 }
+console.log(console)
